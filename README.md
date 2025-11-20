@@ -12,7 +12,7 @@ This project is about Food Image Detection using Deep Learning.
 
 # Vietnamese-food-recognition-
 
-Vietnamese foods recognition  with YOLOv8n-cls finetuned on Vietnamese Foods dataset (kaggle), includes Grad-CAM explainability and Gradio demo app.
+Vietnamese foods recognition with YOLOv8n-cls finetuned on Vietnamese Foods dataset (kaggle), includes Grad-CAM explainability and Gradio demo app.
 
 This project use Deep Learning to classify and recognize food images, support related apps, webs deploy auto recommendation about diet, portion, dishes or study computer vision.
 
