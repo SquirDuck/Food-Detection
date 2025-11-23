@@ -10,7 +10,7 @@ This project is about Food Image Detection using Deep Learning to recognition 30
 - `evaluate.py`: Evaluation script
 - `requirements.txt`: Dependencies
 
-# Vietnamese-food-recognition
+# Vietnamese Food Recognition
 
 Vietnamese foods recognition with YOLOv8n-cls finetuned on Vietnamese Foods dataset (kaggle), includes Grad-CAM explainability and Gradio demo app.
 
