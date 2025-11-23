@@ -1,6 +1,6 @@
 # Food Detection
 
-This project is about Food Image Detection using Deep Learning.
+This project is about Food Image Detection using Deep Learning to recognition 30 unique foods in VietNam.
 
 ## Structure
 - `notebooks/Food_detection.ipynb`: Original notebook
