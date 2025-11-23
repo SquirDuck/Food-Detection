@@ -43,7 +43,7 @@ iface = gr.Interface(
     fn=predict_food,
     inputs=gr.Image(type="filepath"),
     outputs=[gr.Image(type="pil"), gr.Textbox()],
-    title="🍜 YOLOv8 - Nhận diện món ăn Việt Nam",
+    title=" YOLOv8 - Nhận diện món ăn Việt Nam",
     description="Upload ảnh món ăn, YOLOv8 sẽ dự đoán tên món (Top5) và hiển thị lên ảnh."
 )
 
