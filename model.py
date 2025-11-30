@@ -6,7 +6,7 @@ import numpy as np
 model = YOLO('runs/classify/vietnamese_food_yolov8/weights/best.pt')
 
 # Thư mục chứa tập validation/test (dạng ImageFolder của PyTorch: mỗi lớp là 1 folder)
-val_dir = 'dataset_raw/Images/Validate'  # chỉnh lại đúng folder bạn dùng
+val_dir = 'dataset_raw/Images/Validate'  
 
 # Danh sách class từ tên folder
 class_names = sorted(os.listdir(val_dir))  # đảm bảo đúng thứ tự như lúc train
